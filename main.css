@@ -1,0 +1,98 @@
+#box{
+    width: 1337px ;
+    height: 272px;
+    background-color: rgb(140, 195, 240,0.5);
+    border-radius: 100px;
+    
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp6784386.jpg);
+    background-attachment: fix;
+}
+.khoi1{
+    width: 383px;
+    height: 55px;
+    padding: 10px;
+    border: 10px;
+    background-color: rgb(221, 226, 226);
+    border-radius: 50px;
+    padding-left: 40px;
+    margin-left: 40px;
+    transition: all 3s linear 2s;
+
+}
+.khoi2{
+    width: 383px;
+    height: 181px;
+    background-color: rgb(251, 255, 255);
+    border-radius: 50px;
+    margin-left: 40px;
+    transition: all 3s linear 2s;
+    padding-top: 20px;
+}
+.khoi4{
+    font-size: 17px;
+    width: 690px;
+    height:110px ;
+    background: white;
+    padding-top: 20px;
+    padding-right: 100px;
+    margin-left: 40px;
+    border-radius: 20px;
+    transition: all 3s linear 2s;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+#anh{
+    border-radius: 50%;
+}
+.khoi3{
+    font-family: 'Times New Roman', Times, serif;
+    width: 433px;
+    height: 80px;
+    background-color: bisque;
+    border-radius: 50px;
+    margin-left: 40px;
+    padding-right: 50px;
+    padding-top: 10px;
+    transition: all 3s linear 2s;
+}
+.fas {
+    font-size: 50px;
+}
+.fa-solid{
+    font-size: 50px;
+}
+.test{
+    font-size: 17px;
+    width: 310px;
+    height: 134px;
+    background: rgb(219, 217, 217);
+    float: right;
+    margin-top: 50px;
+    margin-right: 200px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+.test2{
+    font-size: 17px;
+    width: 310px;
+    height: 134px;
+    background: white;
+    float: right;
+    margin-top: 50px;
+
+}
+.test3{
+    font-size: 17px;
+    width: 310px;
+    height: 134px;
+    background: rgb(221, 226, 226);
+    float: right;
+    margin-top: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+}
